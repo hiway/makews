@@ -1,0 +1,14 @@
+[package]
+name = "makews"
+version = "0.1.0"
+authors = ["Harshad Sharma <harshad@sharma.io>"]
+edition = "2018"
+description = "MakeWS: Make WebSite - a static site generator for mere mortals."
+license = "BSD-2-Clause"
+homepage = "https://github.com/hiway/makews"
+repository = "https://github.com/hiway/makews"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
